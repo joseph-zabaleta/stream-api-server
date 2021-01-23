@@ -22,7 +22,7 @@ This is a simple json-server application. Used to create a simple API for a Reac
 API server makes use of the npm package `json-server` follow the code block below to get started.
 
 ```bash
-git clone
+git clone https://github.com/joseph-zabaleta/stream-api-server
 cd stream-api-server
 npm install
 ```
